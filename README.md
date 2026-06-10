@@ -23,3 +23,36 @@ It's a single self-contained SVG — the text is outlined to vector paths (pixel
 ```
 
 Leaderboard: <https://www.http-arena.com/leaderboard/>
+
+## Badge variants (by scope)
+
+<table>
+  <tr>
+    <td align="center">
+      <i><code>HttpArena H1:</code></i><br>
+      <img src="httparena-badge-h1.svg" alt="httparena-badge-h1">
+    </td>
+    <td align="center">
+      <i><code>HttpArena H2:</code></i><br>
+      <img src="httparena-badge-h2.svg" alt="httparena-badge-h2">
+    </td>
+    <td align="center">
+      <i><code>HttpArena H3:</code></i><br>
+      <img src="httparena-badge-h3.svg" alt="httparena-badge-h3">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <i><code>HttpArena Gateway:</code></i><br>
+      <img src="httparena-badge-gateway.svg" alt="httparena-badge-gateway">
+    </td>
+    <td align="center">
+      <i><code>HttpArena gRPC:</code></i><br>
+      <img src="httparena-badge-grpc.svg" alt="httparena-badge-gRPC">
+    </td>
+    <td align="center">
+      <i><code>HttpArena WebSocket:</code></i><br>
+      <img src="httparena-badge-websocket.svg" alt="httparena-badge-websocket">
+    </td>
+  </tr>
+</table>
