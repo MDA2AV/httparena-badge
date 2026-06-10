@@ -11,13 +11,13 @@ It's a single self-contained SVG — the text is outlined to vector paths (pixel
 **Markdown**
 
 ```md
-[![Benchmarked by HttpArena](https://cdn.jsdelivr.net/gh/MDA2AV/httparena-badge/wordmark.svg)](https://www.http-arena.com/leaderboard/)
+[![Benchmarked by HttpArena](https://cdn.jsdelivr.net/gh/MDA2AV/httparena-badge/wordmark.svg)](https://www.http-arena.com/)
 ```
 
 **HTML** (lets you set the size)
 
 ```html
-<a href="https://www.http-arena.com/leaderboard/">
+<a href="https://www.http-arena.com/">
   <img src="https://cdn.jsdelivr.net/gh/MDA2AV/httparena-badge/wordmark.svg" alt="Benchmarked by HttpArena" height="44">
 </a>
 ```
