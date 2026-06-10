@@ -2,7 +2,7 @@
 
 The **"Benchmarked by HttpArena"** badge, served globally via [jsDelivr](https://www.jsdelivr.com/).
 
-[![Benchmarked by HttpArena](https://cdn.jsdelivr.net/gh/MDA2AV/httparena-badge/wordmark.svg)](https://www.http-arena.com/leaderboard/)
+[![Benchmarked by HttpArena](https://cdn.jsdelivr.net/gh/MDA2AV/httparena-badge/wordmark.svg)](https://www.http-arena.com/)
 
 It's a single self-contained SVG — the text is outlined to vector paths (pixel-identical on every OS) and it adapts to light & dark themes automatically.
 
